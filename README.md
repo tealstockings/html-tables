@@ -1,2 +1,2 @@
-# website
-Practice website to figure out what on earth I'm doing on CodeCademy
+# htmltables
+Practicing tables to figure out what on earth I'm doing on CodeCademy
